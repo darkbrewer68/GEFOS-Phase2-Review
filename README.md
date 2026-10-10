@@ -9,7 +9,7 @@ Thank you for helping review GEFOS. This repository contains a sanitized, limite
 3. Read the [reviewer guide](REVIEWER_GUIDE.md).
 4. Submit actionable findings through the GitHub issue form.
 
-The [readiness checklist](PHASE2_REVIEW_CHECKLIST.md) provides the same acceptance areas in a compact format.
+The [readiness checklist](PHASE2_REVIEW_CHECKLIST.md) summarizes the acceptance areas. The [evidence and sign-off checklist](PHASE2_EVIDENCE_SIGNOFF.md) is for tracking evidence and owner acceptance; its items remain **Not assessed** until evidence is actually reviewed.
 
 ## Purpose
 
@@ -28,4 +28,4 @@ Assess whether the Phase 2 controlled field pilot and recovery-readiness expecta
 
 The public packet is a sanitized summary prepared from project scope notes. It is not a verbatim copy of private project documents and does not include implementation source, pilot evidence, recovery artifacts, detailed runbooks, or production data. The owner must reconcile the summary with the authoritative approved scope. Reviewers must mark evidence-dependent criteria **Not assessed** when evidence is not present; do not infer that a criterion has passed.
 
-This independent documentation/process review is not a security certification, production penetration test, launch approval, or Phase 2 completion decision. Phase completion remains subject to the authoritative acceptance gate, required evidence, and recorded owner approval.
+This independent documentation/process review is not a security certification, production penetration test, launch approval, or Phase 2 completion decision. Phase completion remains subject to the authoritative acceptance gate, required evidence, and recorded owner approval. Approval of the scope summary is not final Phase 2 acceptance.
