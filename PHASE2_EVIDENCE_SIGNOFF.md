@@ -4,6 +4,10 @@
 
 **Current state:** All evidence items are **Not assessed**. Approval of the public scope summary is not Phase 2 completion or final acceptance.
 
+## Scope summary review record
+
+The owner approved the sanitized public Phase 2 scope summary for use in this review packet on 2026-10-10. This records approval of the summary's wording and review purpose only. The authoritative scope has not yet been reconciled against private project documentation, and this is not acceptance of Phase 2 completion.
+
 ## Evidence checklist
 
 For each item, record a sanitized evidence reference or private storage reference. Do not upload credentials, personal information, actual farm records, backups, private URLs, or unredacted logs to this public repository.
