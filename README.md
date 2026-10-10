@@ -1,31 +1,31 @@
 # GEFOS Phase 2 Independent Review
 
-Thank you for helping review GEFOS. This repository contains a limited review packet, not the GEFOS application source and not a deployment target.
+Thank you for helping review GEFOS. This repository contains a sanitized, limited review packet, not the GEFOS application source and not a deployment target.
+
+## Start here
+
+1. Read the [Phase 2 scope summary](PHASE2_SCOPE_SUMMARY.md).
+2. Complete the [reviewer worksheet](REVIEWER_WORKSHEET.md).
+3. Read the [reviewer guide](REVIEWER_GUIDE.md).
+4. Submit actionable findings through the GitHub issue form.
+
+The [readiness checklist](PHASE2_REVIEW_CHECKLIST.md) provides the same acceptance areas in a compact format.
 
 ## Purpose
 
-Assess whether the planned Phase 2 controlled field pilot is understandable, appropriately bounded, testable, and supported by adequate recovery and evidence procedures. Provide candid findings and practical recommendations.
+Assess whether the Phase 2 controlled field pilot and recovery-readiness expectations are clear, bounded, testable, and supported by appropriate evidence. Provide candid findings and practical recommendations.
 
 ## Review boundaries
 
-- Review only the material published in this repository.
+- Review only the materials published in this repository.
 - Do not access, scan, log into, or test the live production service or any infrastructure.
 - Do not seek or request credentials, personal information, or production records.
 - Do not make changes to production systems. This repository does not authorize releases or deployments.
-- Submit proposed corrections as feedback or pull requests here. Maintainers will assess them; contributions are not automatically accepted.
+- Proposed corrections are suggestions for owner review; contributions are not automatically accepted.
 - If you notice a potential security issue, do not publish exploit details or sensitive data in a public issue. Contact the repository owner privately through GitHub.
 
-## Review questions
+## Important status and limitations
 
-1. Is the Phase 2 objective and its exclusions clear?
-2. Are the pilot workflows, roles, and expected outcomes understandable?
-3. Are rehearsal and recovery steps repeatable?
-4. Are evidence, auditability, timestamp corrections, and responsibility for changes addressed?
-5. Could accessibility, usability, or operational risks prevent a farm user from completing the workflows?
-6. What specific gaps should be resolved before Phase 2 can be considered complete?
+The public packet is a sanitized summary prepared from project scope notes. It is not a verbatim copy of private project documents and does not include implementation source, pilot evidence, recovery artifacts, detailed runbooks, or production data. The owner must reconcile the summary with the authoritative approved scope. Reviewers must mark evidence-dependent criteria **Not assessed** when evidence is not present; do not infer that a criterion has passed.
 
-For each finding, include impact, the relevant document or section, a concise rationale, and a suggested remedy. Distinguish observed facts from assumptions. Do not include passwords, personal data, or confidential operational information.
-
-## Status
-
-This is an independent documentation and process review. It is not a security certification, production penetration test, or launch approval. Phase completion remains subject to the project's documented acceptance gates and owner review.
+This independent documentation/process review is not a security certification, production penetration test, launch approval, or Phase 2 completion decision. Phase completion remains subject to the authoritative acceptance gate, required evidence, and recorded owner approval.
