@@ -2,7 +2,6 @@
 name: Phase 2 review finding
 about: Submit one actionable documentation or workflow finding
 title: "[Review] "
-labels: review-feedback
 assignees: ""
 ---
 
